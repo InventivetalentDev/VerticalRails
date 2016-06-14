@@ -1,0 +1,4 @@
+name: VerticalRails
+main: org.inventivetalent.verticalrails.VerticalRails
+author: inventivetalent
+version: ${project.version}
